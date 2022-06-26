@@ -1,8 +1,13 @@
-MelloColorTheme for Visual Studio Code
-==================================
+Mello Color Theme for Visual Studio Code
+=======================================
 
-Beautiful functionality for professional developers
+high contrast color theme for higher productivity
 ---------------------------------------------------
 
-MelloColorTheme is a color scheme, customized user interface theme for Visual Studio Code. It has been designed by Manoj joshi. Carefully selected shades of colors are the foundation of an uncompromising, non-distractive user interface. The single goal of MelloColorTheme is to let you focus on your code.
+Mello is a color scheme, customized user interface theme for Visual Studio Code. Carefully selected shades of colors are the foundation of an uncompromising, non-distractive user interface. The single goal of MelloColorTheme is to let you focus on your code.
+
+steps to installation:
+  step 1: download all the files
+  step 2: extract folder to your vscode extension folder
+  
 
